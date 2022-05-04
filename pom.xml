@@ -181,7 +181,6 @@
 	</build>
 
     <modules>
-		<module>nolt-specifications</module>
 		<module>nolt-customer-orders</module>
         <module>nolt-restaurant-orders</module>
 		<module>nolt-gateway</module>
